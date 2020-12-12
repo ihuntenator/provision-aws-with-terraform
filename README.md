@@ -29,11 +29,11 @@ The different AWS resources types have been separated into their respective file
 
 ## Create the runbook
 
- 1 To create a runbook, navigate to Project ➜ Operations ➜ Runbooks ➜ Add Runbook.
- 1 Give the runbook a name and click SAVE.
- 1 Click DEFINE YOUR RUNBOOK PROCESS, then click ADD STEP.
- 1 Add a Apply a Terraform template step.
- 1 Fill in the template properties
+ 1. To create a runbook, navigate to Project ➜ Operations ➜ Runbooks ➜ Add Runbook.
+ 1. Give the runbook a name and click SAVE.
+ 1. Click DEFINE YOUR RUNBOOK PROCESS, then click ADD STEP.
+ 1. Add a Apply a Terraform template step.
+ 1. Fill in the template properties
    * Template Source: File inside a package
    * Package: Choose the package which contains the files above
 
